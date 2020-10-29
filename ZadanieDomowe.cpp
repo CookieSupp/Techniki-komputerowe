@@ -10,7 +10,7 @@ using namespace std;
 int main()
 {
 	int wybor;
-	float a, b, c, d, e, y, PI = 3.14159265359; //coœ mi nie dzia³a biblioteka wiêc tutaj jest zadeklarowane PI
+	float a, b, c, d, e, y, PI = 3.14159265359; //coÅ“ mi nie dziaÂ³a biblioteka wiÃªc tutaj jest zadeklarowane PI
 	
 	cout << "Podaj numer rownania jakie chcesz policzyc: " << endl;
 	cin >> wybor;
